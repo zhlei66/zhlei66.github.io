@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 疏狂</title>
+    <link>https://github.com/zhlei66/zhlei66.github.io.git/tags/</link>
+    <description>Recent content in Tags on 疏狂</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Tue, 02 Feb 2021 21:32:44 +0800</lastBuildDate><atom:link href="https://github.com/zhlei66/zhlei66.github.io.git/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>诗词歌赋</title>
+      <link>https://github.com/zhlei66/zhlei66.github.io.git/tags/%E8%AF%97%E8%AF%8D%E6%AD%8C%E8%B5%8B/</link>
+      <pubDate>Tue, 02 Feb 2021 21:32:44 +0800</pubDate>
+      
+      <guid>https://github.com/zhlei66/zhlei66.github.io.git/tags/%E8%AF%97%E8%AF%8D%E6%AD%8C%E8%B5%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://github.com/zhlei66/zhlei66.github.io.git/tags/hugo/</link>
+      <pubDate>Tue, 02 Feb 2021 21:16:51 +0800</pubDate>
+      
+      <guid>https://github.com/zhlei66/zhlei66.github.io.git/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>在线小工具集</title>
+      <link>https://github.com/zhlei66/zhlei66.github.io.git/tags/%E5%9C%A8%E7%BA%BF%E5%B0%8F%E5%B7%A5%E5%85%B7%E9%9B%86/</link>
+      <pubDate>Tue, 02 Feb 2021 00:32:27 +0800</pubDate>
+      
+      <guid>https://github.com/zhlei66/zhlei66.github.io.git/tags/%E5%9C%A8%E7%BA%BF%E5%B0%8F%E5%B7%A5%E5%85%B7%E9%9B%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://github.com/zhlei66/zhlei66.github.io.git/tags/python/</link>
+      <pubDate>Mon, 01 Feb 2021 00:25:27 +0800</pubDate>
+      
+      <guid>https://github.com/zhlei66/zhlei66.github.io.git/tags/python/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

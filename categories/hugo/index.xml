@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on 疏狂</title>
+    <link>https://github.com/zhlei66/zhlei66.github.io.git/categories/hugo/</link>
+    <description>Recent content in hugo on 疏狂</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Tue, 02 Feb 2021 21:16:51 +0800</lastBuildDate><atom:link href="https://github.com/zhlei66/zhlei66.github.io.git/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo内嵌HTML</title>
+      <link>https://github.com/zhlei66/zhlei66.github.io.git/posts/hugo%E5%86%85%E5%B5%8Chtml/</link>
+      <pubDate>Tue, 02 Feb 2021 21:16:51 +0800</pubDate>
+      
+      <guid>https://github.com/zhlei66/zhlei66.github.io.git/posts/hugo%E5%86%85%E5%B5%8Chtml/</guid>
+      <description>&lt;h4 id=&#34;第一个选项-设置blackfriday为默认的markdown引擎-打开-config-toml并添加以下设置&#34;&gt;第一个选项，设置blackfriday为默认的Markdown引擎。打开 config.toml并添加以下设置&lt;/h4&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

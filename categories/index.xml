@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 疏狂</title>
+    <link>https://github.com/zhlei66/zhlei66.github.io.git/categories/</link>
+    <description>Recent content in Categories on 疏狂</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Tue, 02 Feb 2021 21:32:44 +0800</lastBuildDate><atom:link href="https://github.com/zhlei66/zhlei66.github.io.git/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>诗词歌赋</title>
+      <link>https://github.com/zhlei66/zhlei66.github.io.git/categories/%E8%AF%97%E8%AF%8D%E6%AD%8C%E8%B5%8B/</link>
+      <pubDate>Tue, 02 Feb 2021 21:32:44 +0800</pubDate>
+      
+      <guid>https://github.com/zhlei66/zhlei66.github.io.git/categories/%E8%AF%97%E8%AF%8D%E6%AD%8C%E8%B5%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://github.com/zhlei66/zhlei66.github.io.git/categories/hugo/</link>
+      <pubDate>Tue, 02 Feb 2021 21:16:51 +0800</pubDate>
+      
+      <guid>https://github.com/zhlei66/zhlei66.github.io.git/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>工具</title>
+      <link>https://github.com/zhlei66/zhlei66.github.io.git/categories/%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Tue, 02 Feb 2021 00:32:27 +0800</pubDate>
+      
+      <guid>https://github.com/zhlei66/zhlei66.github.io.git/categories/%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
